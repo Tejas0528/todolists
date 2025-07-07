@@ -1,6 +1,6 @@
 tasks = []
 
-def show_tasks():
+def view_tasks():
     if not tasks:
         print("No tasks available.")
     else:
